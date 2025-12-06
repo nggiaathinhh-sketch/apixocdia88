@@ -1,0 +1,25 @@
+{
+  "name": "taixiumd5-ai-server",
+  "version": "1.0.0",
+  "description": "AI prediction server for Tai Xiu MD5 using Fastify and ensemble learning.",
+  "main": "apixocdia88.js",
+  "type": "module",
+  "scripts": {
+    "start": "node apixocdia88.js",
+    "dev": "node --watch apixocdia88.js"
+  },
+  "keywords": [
+    "fastify",
+    "taixiu",
+    "md5",
+    "ai",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "fastify": "^4.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
